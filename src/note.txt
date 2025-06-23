@@ -1,0 +1,18 @@
+=============== Buổi 1 =============
+  * SPA
+  * Component
+    - Stateful Component: class
+    - Stateless Component: function (*)
+
+Component -> Bài Tập 1/index
+  - Header
+  - Navbar
+  - Content
+  - Footer
+
+Component -> Bài tập 2
+  - Header
+  - Carousel
+  - List-Item
+    -- Item x6
+  - Footer
