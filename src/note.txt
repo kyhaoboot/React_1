@@ -16,3 +16,8 @@ Component -> Bài tập 2
   - List-Item
     -- Item x6
   - Footer
+
+============== Buổi 3 ============
+Communication Components:
+  - Props
+  - Lifting state up
